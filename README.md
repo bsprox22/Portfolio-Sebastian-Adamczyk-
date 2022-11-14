@@ -1,4 +1,21 @@
 # Portfolio
 
 # About me
-My name is . I am master of performed art and master of music art speciality
+
+# Tech skills
+
+# Tools
+
+# Courses
+[Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
+# Certificates
+
+# Recommended blogs
+
+# Books
+
+# Groups on Facebook
+
+# My example test scenarios
+
+# My example bug report
