@@ -13,7 +13,7 @@
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-0ea48586-29c1-4866-add6-e6b01c3286ba/)
 
 # Recommended blogs
-[Remigiuszbednarczyk](https://remigiuszbednarczyk.pl)
+* [Remigiuszbednarczyk](https://remigiuszbednarczyk.pl)
 
 # Books
 
