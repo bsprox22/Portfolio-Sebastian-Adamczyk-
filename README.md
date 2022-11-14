@@ -10,7 +10,7 @@
 * PHP
 * SQL
 * Bootstrap
-* 
+* GIT
 # Tools
 * 
 # Courses
