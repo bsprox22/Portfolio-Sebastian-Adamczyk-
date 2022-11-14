@@ -12,6 +12,7 @@
 * Bootstrap
 # Tools
 * Jira - bug tracker
+* qTest - Test management and analytics
 * PicPick - Screen Capture Software
 * Sharex - Screen capture or record Software
 * Chrome DevTools - for testing and to improve bug reports
