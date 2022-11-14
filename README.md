@@ -3,9 +3,16 @@
 # About me
 
 # Tech skills
-
+* Java
+* HTML
+* CSS
+* JavaScript
+* PHP
+* SQL
+* Bootstrap
+* 
 # Tools
-
+* 
 # Courses
 
 # Certificates
