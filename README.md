@@ -17,7 +17,7 @@
 
 # Books
 * Zawód tester - Radosław Smilgin
-* Certyfikowany tester ISTQB poziom podstawowy
+* Certyfikowany tester ISTQB poziom podstawowy - Adam Roman, Lucjan Stapp
 # Groups on Facebook
 
 # My example test scenarios
