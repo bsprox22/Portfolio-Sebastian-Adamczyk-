@@ -1,4 +1,4 @@
-# Portfolio
+# PORTFOLIO
 
 # About me
 
@@ -10,8 +10,13 @@
 * PHP
 * SQL
 * Bootstrap
-* GIT
 # Tools
+* Jira - bug tracker
+* Chrome DevTools - for testing and to improve bug reports
+* Git, GitHub
+* MySQL - relational database management system
+* Postman - testing tool for REST API
+* Selenium IDE - tool use to support automated testing
 * 
 # Courses
 
