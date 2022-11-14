@@ -7,10 +7,11 @@
 # Tools
 
 # Courses
-[Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
+
 # Certificates
 
 # Recommended blogs
+[remigiuszbednarczyk](https://remigiuszbednarczyk.pl)
 
 # Books
 
