@@ -11,7 +11,7 @@
 # Certificates
 
 # Recommended blogs
-[remigiuszbednarczyk](https://remigiuszbednarczyk.pl)
+*[Remigiuszbednarczyk](https://remigiuszbednarczyk.pl)
 
 # Books
 
