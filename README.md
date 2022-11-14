@@ -12,12 +12,13 @@
 * Bootstrap
 # Tools
 * Jira - bug tracker
+* PicPick - A full-featured screen capture and recording tool
+* Sharex - Screen capture, file sharing and productivity tool
 * Chrome DevTools - for testing and to improve bug reports
+* 
 * Git, GitHub
 * MySQL - relational database management system
 * Postman - testing tool for REST API
-* Selenium IDE - tool use to support automated testing
-* 
 # Courses
 
 # Certificates
