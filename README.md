@@ -16,7 +16,8 @@
 * [Remigiuszbednarczyk](https://remigiuszbednarczyk.pl)
 
 # Books
-
+* Zawód tester - Radosław Smilgin
+* Certyfikowany tester ISTQB poziom podstawowy
 # Groups on Facebook
 
 # My example test scenarios
