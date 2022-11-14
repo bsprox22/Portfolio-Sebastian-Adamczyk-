@@ -12,8 +12,8 @@
 * Bootstrap
 # Tools
 * Jira - bug tracker
-* PicPick - A full-featured screen capture and recording tool
-* Sharex - Screen capture, file sharing and productivity tool
+* PicPick - Screen Capture Software
+* Sharex - Screen capture or record Software
 * Chrome DevTools - for testing and to improve bug reports
 * 
 * Git, GitHub
