@@ -15,8 +15,8 @@
 * PicPick - Screen Capture Software
 * Sharex - Screen capture or record Software
 * Chrome DevTools - for testing and to improve bug reports
-* 
-* Git, GitHub
+* Git - Version Control Systems
+* GitHub - hosting website designed for programming projects using the Git version control system
 * MySQL - relational database management system
 * Postman - testing tool for REST API
 # Courses
