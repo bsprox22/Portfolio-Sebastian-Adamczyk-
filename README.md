@@ -28,22 +28,22 @@
     * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course-dashboard-redirect/?course_id=2925588)
     * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course-dashboard-redirect/?course_id=4345304)
 * Java
-    * [Java - podstawy](https://www.youtube.com/watch?v=6G19kFcVXTo)
-    * [Java - programowanie obiektowe](https://www.youtube.com/watch?v=OvY0f-IWlos)
+    * [Kurs Java - podstawy](https://www.youtube.com/watch?v=6G19kFcVXTo)
+    * [Kurs Java - programowanie obiektowe](https://www.youtube.com/watch?v=OvY0f-IWlos)
 * HTML
-    * [HTML Tworzenie stron ](https://miroslawzelent.pl/kurs-html/)
+    * [Kurs HTML Tworzenie stron ](https://miroslawzelent.pl/kurs-html/)
 * CSS
-    * [CSS Arkusze stylów](https://miroslawzelent.pl/kurs-css/)
+    * [Kurs CSS Arkusze stylów](https://miroslawzelent.pl/kurs-css/)
 * JavaScript
-    * [JAVASCRIPT](https://miroslawzelent.pl/kurs-javascript/)
+    * [Kurs JAVASCRIPT](https://miroslawzelent.pl/kurs-javascript/)
     * [Podstawy programowania w JavaScript](https://www.youtube.com/watch?v=udxqsJXJM5Q)
 * PHP
-     * [PHP](https://miroslawzelent.pl/kurs-php/)
+    * [Kurs PHP](https://miroslawzelent.pl/kurs-php/)
 * SQL
     * [Bazy danych MYSQL](https://miroslawzelent.pl/kurs-mysql/)
     * [Kurs SQL](https://www.youtube.com/watch?v=15q9R1lTqvI)
 * Bootstrap
-    * [Bootstrap](https://miroslawzelent.pl/kurs-bootstrap/)
+    * [Kurs Bootstrap](https://miroslawzelent.pl/kurs-bootstrap/)
 * GIT
     * [Git podstawy](https://www.youtube.com/watch?v=j-EhgAi-u-Y)
 # Certificates
