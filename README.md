@@ -4,6 +4,7 @@
 
 # Tech skills
 * Java
+* HTML
     * [HTML - TWORZENIE STRON](https://miroslawzelent.pl/kurs-html/)
 * CSS
     * [CSS - ARKUSZE STYLÓW](https://miroslawzelent.pl/kurs-css/)
