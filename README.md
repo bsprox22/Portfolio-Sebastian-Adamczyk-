@@ -23,6 +23,7 @@
 * Postman - testing tool for REST API
 * Apache JMeter - application is open source software
 # Courses
+* Software testing
 * [Roadmapa Programisty](https://www.programujodpodstaw.pl/roadmapa-programisty/)
 * Java
     * [Java - podstawy](https://www.youtube.com/watch?v=6G19kFcVXTo)
