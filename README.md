@@ -24,6 +24,7 @@
 * Apache JMeter - application is open source software
 # Courses
 * [Roadmapa Programisty](https://www.programujodpodstaw.pl/roadmapa-programisty/)
+* [Harvard CS50](https://www.youtube.com/watch?v=WOvhPzWRUAY&list=PLrMB7p7ri2mZrwILyBTNAs1YaDyieN8PR)
 * Software testing
     * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course-dashboard-redirect/?course_id=2925588)
     * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course-dashboard-redirect/?course_id=4345304)
