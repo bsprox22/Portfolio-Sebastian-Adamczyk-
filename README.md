@@ -50,6 +50,7 @@
     * [Kurs Bootstrap](https://miroslawzelent.pl/kurs-bootstrap/)
 * GIT
     * [Git podstawy](https://www.youtube.com/watch?v=j-EhgAi-u-Y)
+    * [Git i GitHub](https://www.youtube.com/watch?v=Ebe9D5zRkvM&t=3612s)
 * Postman
     * [Postman Beginner's Course](https://www.youtube.com/watch?v=VywxIQ2ZXw4&t=4878s)
 # Certificates
