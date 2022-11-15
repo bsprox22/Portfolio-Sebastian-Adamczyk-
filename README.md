@@ -34,6 +34,9 @@
     * [Kurs programowania w Java](https://www.youtube.com/watch?v=OXu1wlo0OZk&list=PLcr3jxpNXo4Gh_WCkEK992cxERXaQp-57)
     * [Kurs Java dla Testerów](https://www.youtube.com/watch?v=HPwDnrQ3fjw&list=PLZTxwbvLNhALJ6vP5ufV8q_Y67xESjHp6)
     * [Kurs Java - Programowanie](https://www.youtube.com/watch?v=Q_4XRJuJTBM&list=PL6aekdNhY7DCM1wGLQCE9eP3kPzu-P7E7)
+* C++
+    * [Kurs Programowanie w C++](https://miroslawzelent.pl/kurs-c++/) 
+    * [Kurs Podejście obiektowe w C++](https://miroslawzelent.pl/kurs-obiektowy-c++/)
 * HTML
     * [Kurs HTML Tworzenie stron ](https://miroslawzelent.pl/kurs-html/)
 * CSS
