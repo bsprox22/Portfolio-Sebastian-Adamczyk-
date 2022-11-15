@@ -5,17 +5,11 @@
 # Tech skills
 * Java
 * HTML
-    * [HTML Tworzenie stron ](https://miroslawzelent.pl/kurs-html/)
 * CSS
-    * [CSS Arkusze stylów](https://miroslawzelent.pl/kurs-css/)
 * JavaScript
-    * [JAVASCRIPT](https://miroslawzelent.pl/kurs-javascript/)
 * PHP
-    * [PHP](https://miroslawzelent.pl/kurs-php/)
 * SQL
-    * [Bazy danych MYSQL](https://miroslawzelent.pl/kurs-mysql/)
 * Bootstrap
-    * [Bootstrap](https://miroslawzelent.pl/kurs-bootstrap/)
 # Tools
 * Jira - bug tracker
 * qTest - Test management and analytics
@@ -33,17 +27,17 @@
 * Java
     * wcięcie w pozycji na liście punktowanej
 * HTML
-    * wcięcie w pozycji na liście punktowanej 
+    * [HTML Tworzenie stron ](https://miroslawzelent.pl/kurs-html/)
 * CSS
-    * wcięcie w pozycji na liście punktowanej 
+    * [CSS Arkusze stylów](https://miroslawzelent.pl/kurs-css/)
 * JavaScript
-    * wcięcie w pozycji na liście punktowanej 
+    * [JAVASCRIPT](https://miroslawzelent.pl/kurs-javascript/)
 * PHP
-    * wcięcie w pozycji na liście punktowanej 
+     * [PHP](https://miroslawzelent.pl/kurs-php/)
 * SQL
-    * wcięcie w pozycji na liście punktowanej 
+    * [Bazy danych MYSQL](https://miroslawzelent.pl/kurs-mysql/)
 * Bootstrap
-    * wcięcie w pozycji na liście punktowanej  
+    * [Bootstrap](https://miroslawzelent.pl/kurs-bootstrap/)
 # Certificates
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-957b9095-8ecf-4989-afc4-caeb5f66b633/)
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-0ea48586-29c1-4866-add6-e6b01c3286ba/)
