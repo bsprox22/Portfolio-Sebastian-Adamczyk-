@@ -25,13 +25,14 @@
 # Courses
 * [Roadmapa Programisty](https://www.programujodpodstaw.pl/roadmapa-programisty/)
 * Java
-    * wcięcie w pozycji na liście punktowanej
+    * [Java - podstawy w 2h](https://www.youtube.com/watch?v=6G19kFcVXTo)
 * HTML
     * [HTML Tworzenie stron ](https://miroslawzelent.pl/kurs-html/)
 * CSS
     * [CSS Arkusze stylów](https://miroslawzelent.pl/kurs-css/)
 * JavaScript
     * [JAVASCRIPT](https://miroslawzelent.pl/kurs-javascript/)
+    * [Podstawy programowania w JavaScript](https://www.youtube.com/watch?v=udxqsJXJM5Q)
 * PHP
      * [PHP](https://miroslawzelent.pl/kurs-php/)
 * SQL
