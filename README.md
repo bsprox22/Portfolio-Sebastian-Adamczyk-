@@ -31,6 +31,7 @@
     * [Kurs Java - podstawy](https://www.youtube.com/watch?v=6G19kFcVXTo)
     * [Kurs Java - programowanie obiektowe](https://www.youtube.com/watch?v=OvY0f-IWlos)
     * [Kurs programowania w Java](https://www.youtube.com/watch?v=OXu1wlo0OZk&list=PLcr3jxpNXo4Gh_WCkEK992cxERXaQp-57)
+    * [Java dla Testerów](https://www.youtube.com/watch?v=HPwDnrQ3fjw&list=PLZTxwbvLNhALJ6vP5ufV8q_Y67xESjHp6)
 * HTML
     * [Kurs HTML Tworzenie stron ](https://miroslawzelent.pl/kurs-html/)
 * CSS
@@ -47,6 +48,8 @@
     * [Kurs Bootstrap](https://miroslawzelent.pl/kurs-bootstrap/)
 * GIT
     * [Git podstawy](https://www.youtube.com/watch?v=j-EhgAi-u-Y)
+* Postman
+    * [Postman Beginner's Course](https://www.youtube.com/watch?v=VywxIQ2ZXw4&t=4878s)
 # Certificates
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-957b9095-8ecf-4989-afc4-caeb5f66b633/)
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-0ea48586-29c1-4866-add6-e6b01c3286ba/)
@@ -64,3 +67,6 @@
 # My example test cases
 
 # My example bug report
+
+* GIT
+    * []()
