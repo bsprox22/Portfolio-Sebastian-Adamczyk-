@@ -41,6 +41,7 @@
      * [PHP](https://miroslawzelent.pl/kurs-php/)
 * SQL
     * [Bazy danych MYSQL](https://miroslawzelent.pl/kurs-mysql/)
+    * [Kurs SQL](https://www.youtube.com/watch?v=15q9R1lTqvI)(https://www.youtube.com/watch?v=U34O01poNvI)(https://www.youtube.com/watch?v=20hVNoqDQD0)
 * Bootstrap
     * [Bootstrap](https://miroslawzelent.pl/kurs-bootstrap/)
 # Certificates
