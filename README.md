@@ -30,6 +30,7 @@
 * Java
     * [Kurs Java - podstawy](https://www.youtube.com/watch?v=6G19kFcVXTo)
     * [Kurs Java - programowanie obiektowe](https://www.youtube.com/watch?v=OvY0f-IWlos)
+    * [Kurs programowania w Java](https://www.youtube.com/watch?v=OXu1wlo0OZk&list=PLcr3jxpNXo4Gh_WCkEK992cxERXaQp-57)
 * HTML
     * [Kurs HTML Tworzenie stron ](https://miroslawzelent.pl/kurs-html/)
 * CSS
