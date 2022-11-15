@@ -4,12 +4,17 @@
 
 # Tech skills
 * Java
-* HTML
+    * [HTML - TWORZENIE STRON](https://miroslawzelent.pl/kurs-html/)
 * CSS
+    * [CSS - ARKUSZE STYLÓW](https://miroslawzelent.pl/kurs-css/)
 * JavaScript
+    * [JAVASCRIPT (FRONT-END)](https://miroslawzelent.pl/kurs-javascript/)
 * PHP
+    * [PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
 * SQL
+    * [BAZY DANYCH MYSQL](https://miroslawzelent.pl/kurs-mysql/)
 * Bootstrap
+    * [KURS BOOTSTRAP](https://miroslawzelent.pl/kurs-bootstrap/)
 # Tools
 * Jira - bug tracker
 * qTest - Test management and analytics
