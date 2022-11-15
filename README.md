@@ -25,7 +25,8 @@
 # Courses
 * [Roadmapa Programisty](https://www.programujodpodstaw.pl/roadmapa-programisty/)
 * Java
-    * [Java - podstawy w 2h](https://www.youtube.com/watch?v=6G19kFcVXTo)
+    * [Java - podstawy](https://www.youtube.com/watch?v=6G19kFcVXTo)
+    * [Java - programowanie obiektowe](https://www.youtube.com/watch?v=OvY0f-IWlos)
 * HTML
     * [HTML Tworzenie stron ](https://miroslawzelent.pl/kurs-html/)
 * CSS
