@@ -66,7 +66,7 @@
 
 # Recommended blogs
 * [Remigiuszbednarczyk](https://remigiuszbednarczyk.pl)
-  [Testelka](https://testelka.pl/)
+* [Testelka](https://testelka.pl/)
 
 # Books
 * Zawód tester - Radosław Smilgin
